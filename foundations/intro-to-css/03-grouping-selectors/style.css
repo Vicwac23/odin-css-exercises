@@ -1,0 +1,13 @@
+#Click,
+#Dont {
+	font-size: 40px;
+}
+
+#Click {
+	color: white;
+	background-color: black;
+}
+
+#Dont {
+	background-color: yellow;
+}
